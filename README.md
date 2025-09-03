@@ -1,3 +1,8 @@
+[![Add to Cursor](https://fastmcp.me/badges/cursor_dark.svg)](https://fastmcp.me/MCP/Details/807/spec-driven-development)
+[![Add to VS Code](https://fastmcp.me/badges/vscode_dark.svg)](https://fastmcp.me/MCP/Details/807/spec-driven-development)
+[![Add to Claude](https://fastmcp.me/badges/claude_dark.svg)](https://fastmcp.me/MCP/Details/807/spec-driven-development)
+[![Add to ChatGPT](https://fastmcp.me/badges/chatgpt_dark.svg)](https://fastmcp.me/MCP/Details/807/spec-driven-development)
+
 # Spec-driven Development MCP Server
 
 [![smithery badge](https://smithery.ai/badge/@kevinlin/spec-driven-dev-mcp)](https://smithery.ai/server/@kevinlin/spec-driven-dev-mcp)
